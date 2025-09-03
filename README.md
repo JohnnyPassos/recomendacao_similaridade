@@ -100,31 +100,6 @@ from src.utils import download_image_from_url, test_with_internet_image
 # URL de exemplo
 url = "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400"
 test_image_path, results = test_with_internet_image(url, recommender)
-```
-
-## 📁 Estrutura do Projeto
-
-```
-FashionSimilarityRecommendation/
-├── README.md
-├── requirements.txt
-├── notebooks/
-│   └── Fashion_Similarity_Complete.ipynb
-├── src/
-│   ├── __init__.py
-│   ├── feature_extractor.py      # Classe para extração de features
-│   ├── similarity_recommender.py # Sistema de recomendação
-│   └── utils.py                  # Funções auxiliares
-├── models/
-│   └── fashion_similarity_index.pkl  # Índice pré-computado
-├── examples/
-│   ├── test_images/             # Imagens de exemplo
-│   └── demo_usage.py            # Script de demonstração
-├── results/
-│   └── similarity_examples/     # Resultados de exemplo
-└── docs/
-    └── methodology.md           # Documentação técnica
-```
 
 ## 🔬 Metodologia
 
@@ -172,15 +147,6 @@ python examples/batch_test.py
 - **Mean Average Precision (MAP)**: Qualidade geral do ranking
 - **Visual Similarity Score**: Avaliação qualitativa
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Por favor:
-
-1. Fork o projeto
-2. Crie sua feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
 
 ## 📚 Outros Projetos
 
