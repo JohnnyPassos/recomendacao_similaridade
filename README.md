@@ -1,4 +1,4 @@
-# Sistema de Recomendação por Similaridade
+#         Sistema de Recomendação por Similaridade
 
 <div align="center">
 
