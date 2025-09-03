@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
-Sistema de recomendação de produtos de moda baseado em similaridade visual usando Transfer Learning com PyTorch.
+Sistema de recomendação de produtos de moda baseado em similaridade visual usando Transfer Learning com PyTorch desenvolvido para o bootcamp Machine Learning Training da DIO em parceria com a Baires Dev.
 
 </div>
 
