@@ -1,4 +1,4 @@
-# Fashion Product Image Similarity Recommendation
+# Sistema de Recomendação por Similaridade
 
 <div align="center">
 
